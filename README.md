@@ -2,7 +2,7 @@
 
 ## API END POINT (DEPLOYED IN HEROKU)
 ```
-url = "https://incometaxcalc.herokuapp.com/calc"
+url = "https://incometaxcalc1.herokuapp.com/calc"
 
 ```
 
