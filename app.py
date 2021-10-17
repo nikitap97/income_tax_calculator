@@ -37,9 +37,9 @@ def income_tax(income):
 def upload_file():
     if request.method == 'POST':
         data = request.get_json()
-
+        
         df= pd.DataFrame(data["data"])
-
+        print(df)
         l = list(df["CREDIT"].values)
 
 
